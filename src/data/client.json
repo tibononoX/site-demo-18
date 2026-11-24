@@ -1,0 +1,49 @@
+{
+  "lang": "fr",
+  "name": "Helfer ramonage",
+  "initial": "H",
+  "trade": "sweep",
+  "tradeLabel": "Service officiel de ramonage · Romont FR",
+  "theme": { "mode": "light", "accent": "#b4372a", "display": "serif", "hero": "type" },
+  "hero": {
+    "eyebrow": "Route des Trois Sapins 1 · Romont",
+    "title": "Ramoneurs de père en fils",
+    "titleEm": "depuis 1849.",
+    "lead": "Service officiel de ramonage pour une partie du canton de Fribourg : cheminées, poêles à bois et à pellets, chaudières à bois, à mazout et à gaz."
+  },
+  "rating": { "score": "4,5", "count": 11, "source": "Google" },
+  "intro": {
+    "title": "Une entreprise familiale à Romont",
+    "paragraphs": [
+      "La première entreprise de la famille Helfer a été fondée en 1849 par l'arrière-grand-père de Pierre Helfer. Nous sommes une entreprise individuelle et familiale, inscrite au Registre du commerce du canton de Fribourg, avec nos bureaux, ateliers et garages à Romont.",
+      "Le métier a bien changé depuis l'époque où le ramoneur parcourait la région à vélo, l'échelle sur l'épaule : la caméra permet aujourd'hui de se glisser dans n'importe quelle cheminée pour la vérifier. Nous conseillons aussi nos clients sur les économies d'énergie et la protection de l'environnement."
+    ],
+    "facts": ["Fondée en 1849", "Service officiel de ramonage", "Agréés MINERGIE®", "Tarifs officiels ECAB"]
+  },
+  "services": {
+    "title": "Nos prestations",
+    "items": [
+      { "title": "Ramonage et nettoyage", "text": "Nettoyage périodique des cheminées ouvertes ou avec insert, des poêles à bois ou à pellets et des chaudières à bois, à mazout et à gaz." },
+      { "title": "Entretien des chauffages", "text": "Entretien des installations de chauffage, chaudières et brûleurs, pour les particuliers comme pour les entreprises, afin de prévenir tout risque d'incendie." },
+      { "title": "Inspection des conduits", "text": "Nettoyage, entretien et inspection des conduits de fumée, avec du matériel de premier plan, caméra comprise." },
+      { "title": "Contrôles de chantiers", "text": "Dans les nouvelles constructions, contrôle des cheminées et chauffages en cours de construction. Chaque canal de fumée est contrôlé avant sa mise en service." },
+      { "title": "Contrôles de combustion", "text": "Selon l'Ordonnance fédérale sur la protection de l'air, les chauffages à mazout et à gaz sont contrôlés : analyse des produits de combustion et des pertes." },
+      { "title": "Industrie et artisanat", "text": "Maintenance des grandes installations, comme les chaudières à vapeur, et des fumoirs de boucherie ou des fours à bois de boulangerie." }
+    ]
+  },
+  "steps": {
+    "title": "Comment ça se passe",
+    "items": [
+      { "title": "Vérifiez votre commune", "text": "Nous sommes le ramoneur officiel d'une cinquantaine de localités autour de Romont, dont Billens, Châtonnaye, Mézières, Siviriez, Ursy et Villaz-St-Pierre." },
+      { "title": "Appelez-nous", "text": "Au 026 652 19 71, ou écrivez-nous par email." },
+      { "title": "Tarif officiel", "text": "Le coût des prestations de ramonage est uniforme sur tout le canton de Fribourg, fixé par l'ECAB." }
+    ]
+  },
+  "contact": {
+    "title": "Contactez Helfer ramonage",
+    "lead": "Pour un ramonage, un contrôle ou un conseil, appelez-nous ou écrivez-nous.",
+    "phones": [ { "label": "Bureau", "display": "026 652 19 71", "tel": "+41266521971" } ],
+    "email": "ramonage@helfer.ch",
+    "address": ["Route des Trois Sapins 1", "1680 Romont FR"]
+  }
+}
